@@ -57,7 +57,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQEV5e8mTaEs8w/profile-displayphoto-shrink_400_400/0/1679246259956?e=1721865600&v=beta&t=F2wTKC5h74MNJ_3xLe9FeT0YxyM6TWkYVBWTGTQeaf0"  />
+<img align="right" height="150" src="[https://media.licdn.com/dms/image/D4D03AQEV5e8mTaEs8w/profile-displayphoto-shrink_400_400/0/1679246259956?e=1721865600&v=beta&t=F2wTKC5h74MNJ_3xLe9FeT0YxyM6TWkYVBWTGTQeaf0](https://media.licdn.com/dms/image/D4D03AQEV5e8mTaEs8w/profile-displayphoto-shrink_800_800/0/1679246259956?e=1727913600&v=beta&t=BLlzca8nkh2kDG3eDChCOeMuUrI5_KjbMcil4c1OgPY)"  />
 
 ###
 
